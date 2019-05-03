@@ -21,7 +21,7 @@
 - Handling real-time updates made in Google Sheets
 
 Our Demo sheet link: 
-[a link](https://docs.google.com/spreadsheets/d/1fO0fmOyoXHGfJgvhVLxNlyCdKvkYVS4R8zzEDIBXH9w/edit#gid=0)
+[Team Information Sheet](https://docs.google.com/spreadsheets/d/1fO0fmOyoXHGfJgvhVLxNlyCdKvkYVS4R8zzEDIBXH9w/edit#gid=0)
 
 First of all, We have to pre-set the google sheet to published (File -> Publish to web ->Towards the bottom select Start publishing). 
 
@@ -51,7 +51,7 @@ You can see the changed imformation of team one after refreshing the website.
 
 ![ScreenShot](https://github.com/xxxuduo/react_final_project/blob/master/ScreenShot/ScreenShot4.png)
 
-
+![show](https://media.giphy.com/media/TajVePbaQbReUz3Ny0/giphy.gif)
 
 
 
