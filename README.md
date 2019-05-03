@@ -12,7 +12,14 @@
 #### API: ####
 - Google Sheet API
 
-![image] (https://github.com/xxxuduo/react_final_project/blob/master/ScreenShot/ScreenShot1.png)
+
+First of all, We have to pre-set the google sheet to published (File -> Publish to web ->Towards the bottom select Start publishing). 
+
+Then we can get the api key of the google sheet. and key will be the entire string after /spreadsheets/d/KEY/edit#gid=0.
+
+
+
+! [ScreenShot] (https://github.com/xxxuduo/react_final_project/blob/master/ScreenShot/ScreenShot1.png)
 
 
 
