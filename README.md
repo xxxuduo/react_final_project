@@ -9,7 +9,10 @@
 #### Pacakge: ####
 - tabletop: allows us to take our Google Sheet data and export it as a JSON object. 
 
-#### API： ####
+#### API: ####
+- Google Sheet API
+
+
 
 
 

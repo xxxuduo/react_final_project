@@ -35,9 +35,10 @@ class App extends Component {
             data.map(obj => {
               return (
                 <div key={obj.team_name}>
-                  <p>{obj.team_name}</p>
+                  <h2>{obj.team_name}</h2>
                   <p>{obj.members}</p>
-                  <img alt={obj.team_name} src={obj.img} />
+                  {/* <img alt={obj.team_name} src={obj.img}/> */}
+                  <a href={obj.Link}><img alt={obj.team_name} src={obj.img}/></a>
                 </div>
               )
             })
