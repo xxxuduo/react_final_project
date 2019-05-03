@@ -19,7 +19,7 @@ Then we can get the api key of the google sheet. and key will be the entire stri
 
 
 
-! [ScreenShot] (https://github.com/xxxuduo/react_final_project/blob/master/ScreenShot/ScreenShot1.png)
+![ScreenShot](https://github.com/xxxuduo/react_final_project/blob/master/ScreenShot/ScreenShot1.png)
 
 
 
