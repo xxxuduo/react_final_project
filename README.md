@@ -54,5 +54,7 @@ You can see the changed imformation of team one after refreshing the website.
 ![show](https://media.giphy.com/media/TajVePbaQbReUz3Ny0/giphy.gif)
 
 
+Additionally, you can access the team link by clicking the team name or team image.
+
 
 
